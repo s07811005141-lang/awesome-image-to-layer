@@ -25,6 +25,7 @@ A curated list of tools, models, papers, datasets and libraries for turning a fl
 ## Online tools
 
 - [Image to Layer](https://image2layers.org/) - AI splits a flat JPG, PNG or WebP into editable transparent layers with the background filled in, and exports a layered PSD. Free in-browser PSD converter; layer splitting is paid (credits).
+- [LayerGrab](https://layergrab.com/) - AI splits a flat PNG, JPG or WebP into up to 16 named transparent layers with the background filled in behind them, or into just the object you describe; copy one layer, or export PNG, ZIP or a layered PSD. Sample splits are free; splitting your own images is paid (credits).
 - [Qwen-Image-Layered on fal](https://fal.ai/models/fal-ai/qwen-image-layered) - Hosted API for the Qwen-Image-Layered model, which decomposes an image into multiple RGBA layers.
 - [Qwen-Image-Layered on Hugging Face](https://huggingface.co/spaces/Qwen/Qwen-Image-Layered) - Official demo Space that separates an uploaded image into several RGBA layers you can download together.
 - [remove.bg](https://www.remove.bg/) - Automatic background removal; produces a transparent cut-out of the subject, not a filled-in background layer.
