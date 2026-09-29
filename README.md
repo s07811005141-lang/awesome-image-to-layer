@@ -135,6 +135,7 @@ A curated list of tools, models, papers, datasets and libraries for turning a fl
 ## Browser extensions
 
 - [Image to Layer — example library (Chrome)](https://github.com/s07811005141-lang/image-to-layer-extension) - Browse layer-split examples offline; search by image type.
+- [LayerGrab for Chrome](https://layergrab.com/chrome-extension) - Right-click any image on a web page to split it into named transparent layers in Chrome's side panel, then copy or download the layers; uses a LayerGrab account (paid credits).
 
 ## Contributing
 
